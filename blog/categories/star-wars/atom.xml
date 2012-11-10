@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[NokiaMan]]></title>
-  <link href="http://nokiaman.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: star wars | NokiaMan]]></title>
+  <link href="http://nokiaman.github.com/blog/categories/star-wars/atom.xml" rel="self"/>
   <link href="http://nokiaman.github.com/"/>
   <updated>2012-11-10T16:58:30+05:30</updated>
   <id>http://nokiaman.github.com/</id>
@@ -20,15 +20,15 @@
     <id>http://nokiaman.github.com/blog/2012/11/10/angry-birds-star-wars-available-for-windows-8</id>
     <content type="html"><![CDATA[<p>The latest installment of Angry Birds, Angry Birds Star Wars is now available on the Windows Store and <a href="" title="http://www.windowsphone.com/en-us/store/app/angry-birds/7f48eacf-1239-4877-88a4-abe9d3ddfad7">the Windows Phone 8 Store</a>. It is also expected that the new game, building upon the previously released Angry Birds Space game and with a Star Wars theme, might soon be available for WP7 phones like the Nokia Lumia 900 as well.</p>
 
-<p><img class="left" src="http://nokiaman.github.com/images/angrybirds.png" title="AngryBirds" ></p>
+<p><img class="left" src="/images/angrybirds.png" title="AngryBirds" ></p>
 
 <p>This is great news for Windows Phone 8 as the game was released along with the iOS and Android versions. The previous Angry Birds games either did not make their way into the Windows Phone store or were released long after the ones for iOS and Android were released. <a href="" title="http://conversations.nokia.com/2012/11/08/angry-birds-stars-edition-use-the-eggs-luke/">Nokia Conversations claim that Nokia has been working closely with Rovio</a> in order to bring out the game so close to WP 8 release.</p>
 
 <p>Nokia has also managed to bring Angry Birds Roost, a Lumia exclusive app, which brings Angry Birds news, videos, etc.</p>
 
-<p><img class="centre" src="http://nokiaman.github.com/images/angrybirdsstore.png" title="AngryBirdsStore" ></p>
+<p><img class="centre" src="/images/angrybirdsstore.png" title="AngryBirdsStore" ></p>
 
-<p>Release of Windows 8 and the shared kernel between Windows Phone 8 and Windows 8 could also mean greater developer uptake. If it is possible to share much of the code between the latest version of the World&#8217;s most used desktop operating system and the mobile OS, developers will be rushing in to develop apps and games for the platform. It is nice to see that this is already happening, with Rovio, who were slow to release the previous games to Windows devices, have quickly released the latest version to both Windows 8 and Windows Phone 8.</p>
+<p>Release of Windows 8 and the shared kernel between Windows Phone 8 and Windows 8 could also mean greater developer uptake. If it is possible to share much of the code between the latest version of the World's most used desktop operating system and the mobile OS, developers will be rushing in to develop apps and games for the platform. It is nice to see that this is already happening, with Rovio, who were slow to release the previous games to Windows devices, have quickly released the latest version to both Windows 8 and Windows Phone 8.</p>
 
 <p>It is still disappointing that it will be <a href="" title="http://conversations.nokia.com/2012/11/08/angry-birds-stars-edition-use-the-eggs-luke/#comment-706271784">few weeks before this games is avaiable for Windows Phone 7.x users</a>.</p>
 ]]></content>
