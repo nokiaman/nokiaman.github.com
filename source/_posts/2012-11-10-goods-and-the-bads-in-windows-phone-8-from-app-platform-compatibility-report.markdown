@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Goods and the bads in Windows Phone 8 from app platform compatibility report"
+date: 2012-11-08 17:09
+comments: true
+categories: 
+---
+
+Microsoft has released the [App platform compatibility for Windows Phone](http://msdn.microsoft.com/en-us/library/windowsphone/develop/jj206947(v=vs.105).aspx) for Developers to ensure compatibility of their apps from WP 7.x to WP 8.
+
+This has provided me with some surprises, shocks and some pleasing changes.
+
+Major shock for me was that FM radio has been disabled.
+
+{% blockquote %}
+Windows Phone 8 does not support the FM radio feature. If you use the FM radio API in a Windows Phone 8 app, a RadioDisabledException will occur.
+{% endblockquote %}
+
+I hadn't heard about this before and it was a huge disappointment. Sure I don't use FM radio often. And there is always Internet radio. Some also use headsets like the Nokia BH-221 bluetooth headset that have FM-Radio, so lack of FM might not be a huge deal breaker. However, many do use FM on their phone, especially in the developing countries like India where data is still expensive. I still use my Nokia N8 as my FM transmitter, and that feature is being grossly missed in the Lumias. Now, the phones cannot even have FM radio, even if Nokia wants to add one.
+
+Lets talk about a pleasing change now.
+
+{% blockquote %}
+When the user clicks an ad displayed in an app and clicks the back button twice in click succession, the app exits in wp8. In Windows Phone OS 7.1, the user would navigate through the apps back stack.
+{% endblockquote %}
+
+This is a welcome change from the UX point of view. Many a times, I have to keep hitting the back button to come out of an app, like IE. It just keeps going back through the app and not to the previous app, as was my intention most of the times. I am still not clear if this brings up the previous app or just exits the current app. Will have to get a device and test it out.
+
+When locking and locking the phone
+
+{% blockquote %}
+On Windows Phone OS 7.1, the video opens in the paused state and the image is visible. On Windows Phone 8, the video opens in the paused state but an empty black box is displayed in place of a frame from the paused video. In both cases, the user has to click Play to resume the video.
+{% endblockquote %}
+
+I don't know why this change was done. It is always nice to see the paused frame when coming back. Anyway, not a big deal.
+
+Microsoft has also taken the extra step to ensure that apps built for Windows Phone 7 continue to work on 8 in the form of Quirk Modes
+
+{% blockquote %}
+For some features and APIs, rather than introducing a breaking change, the Windows Phone app platform provides a quirks mode that preserves the legacy behavior and applies it where appropriate, depending on the version of the Windows Phone the app was originally built and tested for. If the target version is Windows Phone OS 7.1, quirks mode either emulates the same behavior, or it uses the same code as Windows Phone OS 7.1. In other words, the app runs in Windows Phone 8 as it did when it was tested against the runtime it originally targeted.
+{% endblockquote %}
+
+Microsoft has always been known for such attention to developer issues, and it is nice to see them continuing in that path.
+
+There are however, many breaking changes, like the few mentioned above, but more developer centric. Developers of Windows Phone 7 apps and intending to develop on WP8 or wishing to have their apps continue to work on WP8 should definitely go through the list.

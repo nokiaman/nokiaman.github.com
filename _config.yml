@@ -4,10 +4,10 @@
 
 url: http://nokiaman.github.com
 title: NokiaMan
-subtitle: Nokia fan and developer
+subtitle: I am a Nokia fan. I am, NokiaMan
 author: manojlds
 simple_search: http://google.com/search
-description: My name is Manoj. I am a Nokia fan. I am, NokiaMan
+description: I am a Nokia fan. I am, NokiaMan
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -35,6 +35,12 @@ code_dir: downloads/code
 category_dir: blog/categories
 markdown: rdiscount
 pygments: false # default python pygments have been replaced by pygments.rb
+permalink_label: "&infin;"
+permalink_label_feed: "&infin; Permalink"
+linklog_marker: "&rarr;"
+linklog_marker_position: after
+linklog_marker_position_feed: after
+standard_post_marker:
 
 paginate: 10          # Posts per page on the blog index
 pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
@@ -93,7 +99,7 @@ disqus_short_name: nokiaman
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-36228781-1
 
 # Facebook Like
 facebook_like: true
