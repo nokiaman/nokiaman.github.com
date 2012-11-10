@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://nokiaman.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: NokiaMan
+subtitle: Nokia fan and developer
+author: manojlds
 simple_search: http://google.com/search
-description:
+description: My name is Manoj. I am a Nokia fan. I am, NokiaMan
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -64,7 +64,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: manojlds
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
@@ -89,11 +89,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: nokiaman
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
