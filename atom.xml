@@ -4,7 +4,7 @@
   <title><![CDATA[NokiaMan]]></title>
   <link href="http://nokiaman.github.com/atom.xml" rel="self"/>
   <link href="http://nokiaman.github.com/"/>
-  <updated>2012-11-10T18:36:24+05:30</updated>
+  <updated>2012-11-14T23:37:09+05:30</updated>
   <id>http://nokiaman.github.com/</id>
   <author>
     <name><![CDATA[manojlds]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nokia Here is here]]></title>
+    <link href="http://nokiaman.github.com/blog/2012/11/13/nokia-here-is-here/"/>
+    <updated>2012-11-13T23:15:00+05:30</updated>
+    <id>http://nokiaman.github.com/blog/2012/11/13/nokia-here-is-here</id>
+    <content type="html"><![CDATA[<p>I love Nokia Maps. I pitied the users of mobile devices who couldn&#8217;t use Nokia Maps. I felt sorry for them. More so for people with an iPhone running iOS 6.</p>
+
+<p>Nokia Maps is a good brand. Nokia itself is a good brand. It might not be all that popular in US, but Nokia is well known throughout the World. It has consistently been the most trusted brand here in India and elsewhere. Even when the iOS maps fiasco happened, Nokia Maps started getting good amount of attention.</p>
+
+<p>And Nokia Maps was previously called Ovi Maps. Nokia was trying to build a platform with the Ovi name - Ovi store, Ovi Music etc. But it didn&#8217;t work and Nokia switched to Nokia branding. Nokia Fans rejoiced.</p>
+
+<p>Error processing input, expected syntax: {% img [class name(s)] [http[s]:/]/path/to/image [width [height]] [title text | &#8220;title text&#8221; [&#8220;alt text&#8221;]] %}</p>
+
+<p>But now, out of the blue, HERE is here. And we must ask - Why Nokia, why????? And the highlight is that the services are now available on virtualy all platforms. Again, why????</p>
+
+<p>Nokia Maps is (was) Nokia&#8217;s powerful weapon. It had good data. Good navigation features. Good features. And it has saved me thousands of time over the last many years. It is one of the main reasons why I buy a Nokia and a Nokia alone ( not exactly the only reason, but it is a main factor.) All that Nokia has to do is to build the Nokia Maps brand. Make users of Android and especially iOS realize what they are missing and make them switch to Nokia devices. I don&#8217;t see how opening it up to every platform actually helps Nokia sell more devices. It might help improve the maps, but what about device sales?</p>
+
+<p>People are not going to switch from iPhone to a Lumia because the latter has Nokia maps, er, HERE. Because the same maps is available for the iPhone too. Even if it is a HTML5 equivalent ( for now or forever?), if the maps are good, then people will stay with their device and if it is not good, it will only spoil Nokia&#8217;s image.</p>
+
+<p>So, why Nokia, why?</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[10 things you didnt know about the Nokia Lumia 920 - Comments]]></title>
