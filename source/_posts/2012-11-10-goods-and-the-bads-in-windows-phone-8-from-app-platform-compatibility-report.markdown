@@ -3,7 +3,7 @@ layout: post
 title: "Goods and the bads in Windows Phone 8 from app platform compatibility report"
 date: 2012-11-08 17:09
 comments: true
-categories: 
+categories: [windows phone 8, compatibility]
 ---
 
 Microsoft has released the [App platform compatibility for Windows Phone](http://msdn.microsoft.com/en-us/library/windowsphone/develop/jj206947(v=vs.105).aspx) for Developers to ensure compatibility of their apps from WP 7.x to WP 8.
